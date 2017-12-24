@@ -9,4 +9,5 @@ title: 20171224-First post!
 连接：
 1. [中文jekyll的说明](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html)
 2. [jekyll的另一个说明(包含1)](http://dontry.github.io/about/)
-
+3. [Github Pages + Jekyll 独立博客一小时快速搭建&上线指南](https://link.zhihu.com/?target=http%3A//playingfingers.com/2016/03/26/build-a-blog/)
+    
