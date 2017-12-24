@@ -7,6 +7,6 @@ title: First post!
 本post网站就是fork了这个模板项目,并将其第一个md格式的post修改为当前这个post的内容来发布，并做测试。
 
 连接：
-1. [中文jekyll的说明] (http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html)
+1. [中文jekyll的说明](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html)
 2. [jekyll的另一个说明(包含1)](http://dontry.github.io/about/)
 
