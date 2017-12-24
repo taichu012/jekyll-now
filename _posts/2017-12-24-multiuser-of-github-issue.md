@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 解决github-push-failed(remote: Permission to userA/repo.git denied to userB)
+title: 20171224-github-push-failed[Permission to userA/repo.git denied to userB]
 ---
 
 # 问题：
