@@ -1,4 +1,4 @@
-# freelogic's blog
+# taichu's blog
 
 ## 1.博客目录
 <br>|[2018-02-04-数学-资源收集](./_posts/2018-02-04-数学-资源收集.md)
